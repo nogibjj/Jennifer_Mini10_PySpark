@@ -58,8 +58,10 @@ The script will:
 - Implemented distributed processing using PySpark DataFrame operations
 - Handled multiple statistical calculations efficiently
 
+**Data Overview**
 ![alt text](image/image-1.png)
 
+**Data Load**
 ![alt text](image/image-2.png)
 
 ✅ **Requirement 2: Spark SQL queries**
@@ -74,8 +76,10 @@ The script will:
 
 ## Project Outputs
 
+**Sample of transformed data with new metrics**
 ![alt text](image/image-3.png)
 
+**Top Performers by Era**
 ![alt text](image/image-6.png)
 
 ## Testing Passed
