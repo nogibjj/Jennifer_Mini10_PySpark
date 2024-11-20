@@ -1,7 +1,7 @@
-
+[![CI](https://github.com/nogibjj/Jennifer_Mini10_PySpark/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jennifer_Mini10_PySpark/actions/workflows/cicd.yml)
 
 # Mini Project 10: Baseball Player Analysis with PySpark
-![alt text](image.png)
+![alt text](image/image.png)
 
 ## Project Purpose
 This project analyzes historical baseball relief pitcher statistics using PySpark. It processes a large dataset (30,962 records) of baseball statistics, calculating various performance metrics and providing insights into pitcher and team performance across different eras.
@@ -58,29 +58,29 @@ The script will:
 - Implemented distributed processing using PySpark DataFrame operations
 - Handled multiple statistical calculations efficiently
 
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 ✅ **Requirement 2: Spark SQL queries**
 - Implemented three comprehensive SQL analyses, including one example below:
 
-![alt text](image-4.png)
+![alt text](image/image-4.png)
 
 ✅ **Requirement 3: Data transformations**
 - Implemented multiple data transformations, including one example below:
 
-![alt text](image-5.png)
+![alt text](image/image-5.png)
 
 ## Project Outputs
 
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
-![alt text](image-6.png)
+![alt text](image/image-6.png)
 
 ## Testing Passed
 
-![alt text](image-7.png)
+![alt text](image/image-7.png)
 
 ## References
 https://github.com/nogibjj/python-ruff-template 
