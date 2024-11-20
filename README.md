@@ -64,12 +64,12 @@ The script will:
 **Data Load**
 ![alt text](image/image-2.png)
 
-✅ **Requirement 2: Spark SQL queries**
+✅ **Requirement 2: Spark SQL queries & **
 - Implemented three comprehensive SQL analyses, including one example below:
 
 ![alt text](image/image-4.png)
 
-✅ **Requirement 3: Data transformations**
+✅ **Requirement 3: Data transformations & Processing**
 - Implemented multiple data transformations, including one example below:
 
 ![alt text](image/image-5.png)
